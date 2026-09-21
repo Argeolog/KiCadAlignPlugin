@@ -1,4 +1,6 @@
-Dosyayı Klasörden Çıkarıp,
+
+Dosya zipte ise Çıkarın.
+Sadece klasör olacak şekilde
 
 Belgeler\KiCad\9.0\scripting\plugins klasörüne kopyalayın.
 
